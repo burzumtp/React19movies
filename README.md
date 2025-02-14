@@ -1,6 +1,22 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Project Name
+
+ReactMovies
+
+## 🚀 Live Demo
+https://stirring-cocada-d8d2e9.netlify.app/
+
+## Features
+- Built with the latest React version for optimal performance
+- Fetches real-time movie data from TMDB api service
+-  Search functionality to find movies
+-  Dynamic "Trending Movies" section based on the search traffic
+-  Appwrite integration for Backend as a Service
+-  Efficient component-based architecture
+-  Responsive UI for a seamless experience
+
+
 
 Currently, two official plugins are available:
 
